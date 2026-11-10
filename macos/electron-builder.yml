@@ -1,7 +1,7 @@
 appId: com.proimport.calculator
 productName: Proİmport
 directories:
-  output: ../installer-output-macos
+  output: installer-output-macos
   buildResources: macos/build
 files:
   - src/**
