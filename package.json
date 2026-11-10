@@ -1,0 +1,21 @@
+{
+  "name": "proimport-calculator",
+  "productName": "Proİmport",
+  "version": "1.0.0",
+  "description": "Xaricdən gətirilən avtomobilin Bakıya qədər tam maya dəyərini hesablayır",
+  "main": "src/main.js",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "test": "node src/test-calc.js",
+    "build": "powershell -ExecutionPolicy Bypass -File build.ps1",
+    "build:mac": "node macos/create-icon.js && npm test && electron-builder --config macos/electron-builder.yml --mac dmg --universal"
+  },
+  "devDependencies": {
+    "electron": "45.2.3",
+    "electron-builder": "26.18.1"
+  },
+  "allowScripts": {
+    "electron@45.2.3": true
+  }
+}

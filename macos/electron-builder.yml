@@ -1,0 +1,26 @@
+appId: com.proimport.calculator
+productName: Proİmport
+directories:
+  output: ../installer-output-macos
+  buildResources: macos/build
+files:
+  - src/**
+  - '!src/**/*.bak*'
+  - '!src/test-calc.js'
+  - package.json
+asar: true
+mac:
+  category: public.app-category.finance
+  icon: macos/build/icon.icns
+  minimumSystemVersion: '13.0'
+  target:
+    - target: dmg
+      arch:
+        - universal
+  identity: null
+  hardenedRuntime: false
+  notarize: false
+  forceCodeSigning: false
+dmg:
+  title: Proİmport
+  artifactName: proimport-${version}-mac-universal.${ext}

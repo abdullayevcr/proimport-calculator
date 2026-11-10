@@ -1,0 +1,7 @@
+node_modules/
+installer-output-macos/
+dist/
+out/
+macos/build/
+.DS_Store
+*.dmg

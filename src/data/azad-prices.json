@@ -1,0 +1,3066 @@
+{
+  "updated": "2026-11-09",
+  "source": "Azad Logistics dealer price settings",
+  "rows": [
+    {
+      "auction": "Copart",
+      "location": "AK - Anchorage",
+      "port": "CA",
+      "price": 4548
+    },
+    {
+      "auction": "Copart",
+      "location": "AK - Anchorage South",
+      "port": "CA",
+      "price": 4533
+    },
+    {
+      "auction": "Copart",
+      "location": "AL- Copart Alabama Ctu",
+      "port": "GA",
+      "price": 1628
+    },
+    {
+      "auction": "Copart",
+      "location": "AL-Dothan",
+      "port": "GA",
+      "price": 1633
+    },
+    {
+      "auction": "Copart",
+      "location": "AL - Mobile",
+      "port": "GA",
+      "price": 1643
+    },
+    {
+      "auction": "Copart",
+      "location": "AL - Mobile South",
+      "port": "GA",
+      "price": 1548
+    },
+    {
+      "auction": "Copart",
+      "location": "AL - Montgomery",
+      "port": "GA",
+      "price": 1653
+    },
+    {
+      "auction": "Copart",
+      "location": "AR - Fayetteville",
+      "port": "TX",
+      "price": 1798
+    },
+    {
+      "auction": "Copart",
+      "location": "AR - Little Rock",
+      "port": "GA",
+      "price": 1808
+    },
+    {
+      "auction": "Copart",
+      "location": "AZ - Phoenix",
+      "port": "CA",
+      "price": 2218
+    },
+    {
+      "auction": "Copart",
+      "location": "AZ - PHOENIX NORTH",
+      "port": "CA",
+      "price": 2223
+    },
+    {
+      "auction": "Copart",
+      "location": "AZ - Tucson",
+      "port": "CA",
+      "price": 2408
+    },
+    {
+      "auction": "Copart",
+      "location": "CA- Adelanto",
+      "port": "CA",
+      "price": 2108
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - ANTELOPE",
+      "port": "CA",
+      "price": 2323
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - Bakersfield",
+      "port": "CA",
+      "price": 2193
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - Fresno",
+      "port": "CA",
+      "price": 2268
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - Hayward",
+      "port": "CA",
+      "price": 2338
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - Long Beach",
+      "port": "CA",
+      "price": 2113
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - Martinez",
+      "port": "CA",
+      "price": 2293
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - Mentone",
+      "port": "CA",
+      "price": 2133
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - Redding",
+      "port": "CA",
+      "price": 2543
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - Sacramento",
+      "port": "CA",
+      "price": 2328
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - San Bernardino",
+      "port": "CA",
+      "price": 2143
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - San Diego",
+      "port": "CA",
+      "price": 2188
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - San Jose",
+      "port": "CA",
+      "price": 2448
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - So Sacramento",
+      "port": "CA",
+      "price": 2288
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - Sun Valley",
+      "port": "CA",
+      "price": 2163
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - Vallejo",
+      "port": "CA",
+      "price": 2388
+    },
+    {
+      "auction": "Copart",
+      "location": "CO - Colorado Springs",
+      "port": "TX",
+      "price": 2033
+    },
+    {
+      "auction": "Copart",
+      "location": "CO - Denver",
+      "port": "TX",
+      "price": 1948
+    },
+    {
+      "auction": "Copart",
+      "location": "CO - Denver Central",
+      "port": "TX",
+      "price": 1978
+    },
+    {
+      "auction": "Copart",
+      "location": "CO - Denver South",
+      "port": "TX",
+      "price": 1978
+    },
+    {
+      "auction": "Copart",
+      "location": "CT - Hartford",
+      "port": "NJ",
+      "price": 1643
+    },
+    {
+      "auction": "Copart",
+      "location": "DE - Seaford",
+      "port": "NJ",
+      "price": 1618
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Ft.Pierce",
+      "port": "GA",
+      "price": 1643
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Miami North",
+      "port": "GA",
+      "price": 1688
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Miami South",
+      "port": "GA",
+      "price": 1688
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Ocala",
+      "port": "GA",
+      "price": 1663
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Orlando North",
+      "port": "GA",
+      "price": 1548
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Orlando South",
+      "port": "GA",
+      "price": 1548
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Punta Gorda",
+      "port": "GA",
+      "price": 1613
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Punta Gorda South",
+      "port": "GA",
+      "price": 1633
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Tallahassee",
+      "port": "GA",
+      "price": 1643
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Tampa South",
+      "port": "GA",
+      "price": 1588
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - West Palm Beach",
+      "port": "GA",
+      "price": 1678
+    },
+    {
+      "auction": "Copart",
+      "location": "GA - Atlanta East",
+      "port": "GA",
+      "price": 1556
+    },
+    {
+      "auction": "Copart",
+      "location": "GA - Atlanta North",
+      "port": "GA",
+      "price": 1546
+    },
+    {
+      "auction": "Copart",
+      "location": "GA - Atlanta South",
+      "port": "GA",
+      "price": 1553
+    },
+    {
+      "auction": "Copart",
+      "location": "GA - Atlanta West",
+      "port": "GA",
+      "price": 1593
+    },
+    {
+      "auction": "Copart",
+      "location": "GA - Augusta",
+      "port": "GA",
+      "price": 1533
+    },
+    {
+      "auction": "Copart",
+      "location": "GA - Cartersville",
+      "port": "GA",
+      "price": 1608
+    },
+    {
+      "auction": "Copart",
+      "location": "GA - FAIRBURN",
+      "port": "GA",
+      "price": 1528
+    },
+    {
+      "auction": "Copart",
+      "location": "GA - Macon",
+      "port": "GA",
+      "price": 1528
+    },
+    {
+      "auction": "Copart",
+      "location": "GA - Savannah",
+      "port": "GA",
+      "price": 1218
+    },
+    {
+      "auction": "Copart",
+      "location": "GA - Tifton",
+      "port": "GA",
+      "price": 1528
+    },
+    {
+      "auction": "Copart",
+      "location": "HI - HONOLULU",
+      "port": "CA",
+      "price": 4098
+    },
+    {
+      "auction": "Copart",
+      "location": "IA - Davenport",
+      "port": "IL",
+      "price": 1958
+    },
+    {
+      "auction": "Copart",
+      "location": "IA - Des Moines",
+      "port": "IL",
+      "price": 2023
+    },
+    {
+      "auction": "Copart",
+      "location": "ID - Boise",
+      "port": "IL",
+      "price": 2538
+    },
+    {
+      "auction": "Copart",
+      "location": "IL - Chicago North",
+      "port": "IL",
+      "price": 1818
+    },
+    {
+      "auction": "Copart",
+      "location": "IL - Chicago South",
+      "port": "IL",
+      "price": 1818
+    },
+    {
+      "auction": "Copart",
+      "location": "IL - Peoria",
+      "port": "IL",
+      "price": 1878
+    },
+    {
+      "auction": "Copart",
+      "location": "IL - Wheeling",
+      "port": "IL",
+      "price": 1893
+    },
+    {
+      "auction": "Copart",
+      "location": "IN-CICERO",
+      "port": "IL",
+      "price": 1853
+    },
+    {
+      "auction": "Copart",
+      "location": "IN - DYER",
+      "port": "IL",
+      "price": 1853
+    },
+    {
+      "auction": "Copart",
+      "location": "IN - Fort Wayne",
+      "port": "IL",
+      "price": 1828
+    },
+    {
+      "auction": "Copart",
+      "location": "IN - Hammond",
+      "port": "IL",
+      "price": 1828
+    },
+    {
+      "auction": "Copart",
+      "location": "KS - Kansas City",
+      "port": "TX",
+      "price": 1928
+    },
+    {
+      "auction": "Copart",
+      "location": "KS - Wichita",
+      "port": "TX",
+      "price": 1898
+    },
+    {
+      "auction": "Copart",
+      "location": "KY - EARLINGTON",
+      "port": "GA",
+      "price": 1828
+    },
+    {
+      "auction": "Copart",
+      "location": "KY - Lexington East",
+      "port": "GA",
+      "price": 1828
+    },
+    {
+      "auction": "Copart",
+      "location": "KY - Lexington West",
+      "port": "GA",
+      "price": 1828
+    },
+    {
+      "auction": "Copart",
+      "location": "KY - Louisville",
+      "port": "GA",
+      "price": 1828
+    },
+    {
+      "auction": "Copart",
+      "location": "KY - Walton",
+      "port": "GA",
+      "price": 1828
+    },
+    {
+      "auction": "Copart",
+      "location": "LA - Baton Rouge",
+      "port": "TX",
+      "price": 1753
+    },
+    {
+      "auction": "Copart",
+      "location": "LA - New Orleans",
+      "port": "TX",
+      "price": 1708
+    },
+    {
+      "auction": "Copart",
+      "location": "LA - Shreveport",
+      "port": "TX",
+      "price": 1753
+    },
+    {
+      "auction": "Copart",
+      "location": "MA - FREETOWN",
+      "port": "NJ",
+      "price": 1618
+    },
+    {
+      "auction": "Copart",
+      "location": "MA - North Boston",
+      "port": "NJ",
+      "price": 1643
+    },
+    {
+      "auction": "Copart",
+      "location": "MA - South Boston",
+      "port": "NJ",
+      "price": 1598
+    },
+    {
+      "auction": "Copart",
+      "location": "MA - West Warren",
+      "port": "NJ",
+      "price": 1598
+    },
+    {
+      "auction": "Copart",
+      "location": "MD - Baltimore",
+      "port": "NJ",
+      "price": 1598
+    },
+    {
+      "auction": "Copart",
+      "location": "MD - Baltimore East",
+      "port": "NJ",
+      "price": 1628
+    },
+    {
+      "auction": "Copart",
+      "location": "MD - Washington DC",
+      "port": "NJ",
+      "price": 1598
+    },
+    {
+      "auction": "Copart",
+      "location": "ME - Lyman",
+      "port": "NJ",
+      "price": 1728
+    },
+    {
+      "auction": "Copart",
+      "location": "ME - WINDHAM",
+      "port": "NJ",
+      "price": 1708
+    },
+    {
+      "auction": "Copart",
+      "location": "MI - Detroit",
+      "port": "NJ",
+      "price": 1928
+    },
+    {
+      "auction": "Copart",
+      "location": "MI - Flint",
+      "port": "NJ",
+      "price": 1928
+    },
+    {
+      "auction": "Copart",
+      "location": "MI - Ionia",
+      "port": "NJ",
+      "price": 1928
+    },
+    {
+      "auction": "Copart",
+      "location": "MI - Kincheloe",
+      "port": "IL",
+      "price": 2228
+    },
+    {
+      "auction": "Copart",
+      "location": "MI - Lansing",
+      "port": "NJ",
+      "price": 1948
+    },
+    {
+      "auction": "Copart",
+      "location": "AL - Birmingham",
+      "port": "GA",
+      "price": 1668
+    },
+    {
+      "auction": "Copart",
+      "location": "IL - Southern Illinois",
+      "port": "IL",
+      "price": 1908
+    },
+    {
+      "auction": "Copart",
+      "location": "CT - Hartford Springfield",
+      "port": "NJ",
+      "price": 1623
+    },
+    {
+      "auction": "Copart",
+      "location": "AL - Tanner",
+      "port": "GA",
+      "price": 1728
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - Los Angeles",
+      "port": "CA",
+      "price": 2028
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - Rancho Cucamonga",
+      "port": "CA",
+      "price": 2223
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - Van Nuys",
+      "port": "CA",
+      "price": 2278
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Jacksonville East",
+      "port": "GA",
+      "price": 1533
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Jacksonville North",
+      "port": "GA",
+      "price": 1528
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Jacksonville West",
+      "port": "GA",
+      "price": 1528
+    },
+    {
+      "auction": "Copart",
+      "location": "IN - Indianapolis",
+      "port": "IL",
+      "price": 1628
+    },
+    {
+      "auction": "Copart",
+      "location": "MI -WAYLAND",
+      "port": "IL",
+      "price": 1918
+    },
+    {
+      "auction": "Copart",
+      "location": "MN - Minneapolis",
+      "port": "IL",
+      "price": 1978
+    },
+    {
+      "auction": "Copart",
+      "location": "MN - Minneapolis North",
+      "port": "IL",
+      "price": 1928
+    },
+    {
+      "auction": "Copart",
+      "location": "MN - St.Cloud",
+      "port": "IL",
+      "price": 1928
+    },
+    {
+      "auction": "Copart",
+      "location": "MO - Columbia",
+      "port": "IL",
+      "price": 1828
+    },
+    {
+      "auction": "Copart",
+      "location": "MO - Sikeston",
+      "port": "IL",
+      "price": 1828
+    },
+    {
+      "auction": "Copart",
+      "location": "MO - Springfield",
+      "port": "IL",
+      "price": 1838
+    },
+    {
+      "auction": "Copart",
+      "location": "MO - St.Louis",
+      "port": "NJ",
+      "price": 1848
+    },
+    {
+      "auction": "Copart",
+      "location": "MS - GRENADA",
+      "port": "GA",
+      "price": 1733
+    },
+    {
+      "auction": "Copart",
+      "location": "MS - Jackson",
+      "port": "GA",
+      "price": 1733
+    },
+    {
+      "auction": "Copart",
+      "location": "MT - Billings",
+      "port": "CA",
+      "price": 2848
+    },
+    {
+      "auction": "Copart",
+      "location": "MT - Helena",
+      "port": "CA",
+      "price": 2848
+    },
+    {
+      "auction": "Copart",
+      "location": "NC - China Grove",
+      "port": "GA",
+      "price": 1553
+    },
+    {
+      "auction": "Copart",
+      "location": "NC - Concord",
+      "port": "GA",
+      "price": 1558
+    },
+    {
+      "auction": "Copart",
+      "location": "NC-GASTONIA",
+      "port": "GA",
+      "price": 1553
+    },
+    {
+      "auction": "Copart",
+      "location": "NC - LUMBERTON",
+      "port": "GA",
+      "price": 1553
+    },
+    {
+      "auction": "Copart",
+      "location": "NC - Mebane",
+      "port": "GA",
+      "price": 1568
+    },
+    {
+      "auction": "Copart",
+      "location": "NC - MOCKSVILLE",
+      "port": "GA",
+      "price": 1553
+    },
+    {
+      "auction": "Copart",
+      "location": "NC - Raleigh",
+      "port": "GA",
+      "price": 1543
+    },
+    {
+      "auction": "Copart",
+      "location": "NC - Raleigh NORTH",
+      "port": "GA",
+      "price": 1568
+    },
+    {
+      "auction": "Copart",
+      "location": "ND - BISMARCK",
+      "port": "IL",
+      "price": 2288
+    },
+    {
+      "auction": "Copart",
+      "location": "NE - Lincoln",
+      "port": "IL",
+      "price": 2118
+    },
+    {
+      "auction": "Copart",
+      "location": "NJ - Glassboro East",
+      "port": "NJ",
+      "price": 1528
+    },
+    {
+      "auction": "Copart",
+      "location": "NJ - Somerville",
+      "port": "NJ",
+      "price": 1228
+    },
+    {
+      "auction": "Copart",
+      "location": "NJ - Trenton",
+      "port": "NJ",
+      "price": 1478
+    },
+    {
+      "auction": "Copart",
+      "location": "NM - Albuquerque",
+      "port": "TX",
+      "price": 1948
+    },
+    {
+      "auction": "Copart",
+      "location": "NV - 57 storage",
+      "port": "CA",
+      "price": 2198
+    },
+    {
+      "auction": "Copart",
+      "location": "NV - Las Vegas",
+      "port": "CA",
+      "price": 2218
+    },
+    {
+      "auction": "Copart",
+      "location": "NV - LAS VEGAS WEST",
+      "port": "CA",
+      "price": 2218
+    },
+    {
+      "auction": "Copart",
+      "location": "NV - Reno",
+      "port": "CA",
+      "price": 2398
+    },
+    {
+      "auction": "Copart",
+      "location": "NY - Albany",
+      "port": "NJ",
+      "price": 1598
+    },
+    {
+      "auction": "Copart",
+      "location": "NY - BUFFALO",
+      "port": "NJ",
+      "price": 1763
+    },
+    {
+      "auction": "Copart",
+      "location": "NY - Long Island",
+      "port": "NJ",
+      "price": 1568
+    },
+    {
+      "auction": "Copart",
+      "location": "NY - Newburgh",
+      "port": "NJ",
+      "price": 1518
+    },
+    {
+      "auction": "Copart",
+      "location": "NY - Rochester",
+      "port": "NJ",
+      "price": 1693
+    },
+    {
+      "auction": "Copart",
+      "location": "NY - Syracuse",
+      "port": "NJ",
+      "price": 1648
+    },
+    {
+      "auction": "Copart",
+      "location": "OK - Tulsa",
+      "port": "NJ",
+      "price": 1788
+    },
+    {
+      "auction": "Copart",
+      "location": "OR - Eugene",
+      "port": "CA",
+      "price": 2588
+    },
+    {
+      "auction": "Copart",
+      "location": "OR - Portland North",
+      "port": "CA",
+      "price": 2428
+    },
+    {
+      "auction": "Copart",
+      "location": "OR - Portland South",
+      "port": "CA",
+      "price": 2428
+    },
+    {
+      "auction": "Copart",
+      "location": "PA - Altoona",
+      "port": "NJ",
+      "price": 1718
+    },
+    {
+      "auction": "Copart",
+      "location": "PA - Chambersburg",
+      "port": "NJ",
+      "price": 1618
+    },
+    {
+      "auction": "Copart",
+      "location": "PA - Harrisburg",
+      "port": "NJ",
+      "price": 1578
+    },
+    {
+      "auction": "Copart",
+      "location": "PA - Philadelphia",
+      "port": "NJ",
+      "price": 1528
+    },
+    {
+      "auction": "Copart",
+      "location": "PA - Philadelphia East",
+      "port": "NJ",
+      "price": 1528
+    },
+    {
+      "auction": "Copart",
+      "location": "PA - PHILADELPHIA EAST SUBLOT",
+      "port": "NJ",
+      "price": 1528
+    },
+    {
+      "auction": "Copart",
+      "location": "PA - Pittsburgh North",
+      "port": "NJ",
+      "price": 1728
+    },
+    {
+      "auction": "Copart",
+      "location": "PA - Scranton",
+      "port": "NJ",
+      "price": 1653
+    },
+    {
+      "auction": "Copart",
+      "location": "PA - York Haven",
+      "port": "NJ",
+      "price": 1573
+    },
+    {
+      "auction": "Copart",
+      "location": "SC - Columbia",
+      "port": "GA",
+      "price": 1528
+    },
+    {
+      "auction": "Copart",
+      "location": "SC - North Charleston",
+      "port": "GA",
+      "price": 1498
+    },
+    {
+      "auction": "Copart",
+      "location": "SC - Spartanburg",
+      "port": "GA",
+      "price": 1548
+    },
+    {
+      "auction": "Copart",
+      "location": "SD - RAPID CITY",
+      "port": "IL",
+      "price": 2408
+    },
+    {
+      "auction": "Copart",
+      "location": "TN - Knoxville",
+      "port": "NJ",
+      "price": 1668
+    },
+    {
+      "auction": "Copart",
+      "location": "TN - Memphis",
+      "port": "NJ",
+      "price": 1718
+    },
+    {
+      "auction": "Copart",
+      "location": "TN - Nashville",
+      "port": "NJ",
+      "price": 1728
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Abilene",
+      "port": "TX",
+      "price": 1728
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Amarillo",
+      "port": "TX",
+      "price": 1838
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Andrews",
+      "port": "TX",
+      "price": 1788
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Corpus Christi",
+      "port": "TX",
+      "price": 1663
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Crashedtoys Dallas",
+      "port": "TX",
+      "price": 1648
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Dallas",
+      "port": "TX",
+      "price": 1663
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Dallas South",
+      "port": "TX",
+      "price": 1663
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - El Paso",
+      "port": "TX",
+      "price": 1778
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Ft.Worth",
+      "port": "TX",
+      "price": 1663
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Houston",
+      "port": "TX",
+      "price": 1563
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Houston EAST",
+      "port": "TX",
+      "price": 1563
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Longview",
+      "port": "TX",
+      "price": 1663
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Lufkin",
+      "port": "TX",
+      "price": 1658
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Mcallen",
+      "port": "TX",
+      "price": 1658
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - San Antonio",
+      "port": "TX",
+      "price": 1653
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Waco",
+      "port": "TX",
+      "price": 1658
+    },
+    {
+      "auction": "Copart",
+      "location": "UT - Ogden",
+      "port": "CA",
+      "price": 2328
+    },
+    {
+      "auction": "Copart",
+      "location": "VA - Danville",
+      "port": "NJ",
+      "price": 1698
+    },
+    {
+      "auction": "Copart",
+      "location": "VA - Fredericksburg",
+      "port": "NJ",
+      "price": 1678
+    },
+    {
+      "auction": "Copart",
+      "location": "VA - Hampton",
+      "port": "NJ",
+      "price": 1693
+    },
+    {
+      "auction": "Copart",
+      "location": "VA - Richmond",
+      "port": "NJ",
+      "price": 1693
+    },
+    {
+      "auction": "Copart",
+      "location": "VA - Richmond east",
+      "port": "NJ",
+      "price": 1693
+    },
+    {
+      "auction": "Copart",
+      "location": "VT - RUTLAND",
+      "port": "NJ",
+      "price": 1828
+    },
+    {
+      "auction": "Copart",
+      "location": "WA - Graham",
+      "port": "CA",
+      "price": 2648
+    },
+    {
+      "auction": "Copart",
+      "location": "WA - North Seattle",
+      "port": "CA",
+      "price": 2628
+    },
+    {
+      "auction": "Copart",
+      "location": "WA - Pasco",
+      "port": "CA",
+      "price": 2698
+    },
+    {
+      "auction": "Copart",
+      "location": "WA - Spokane",
+      "port": "CA",
+      "price": 2748
+    },
+    {
+      "auction": "Copart",
+      "location": "WI - APPLETON",
+      "port": "IL",
+      "price": 1828
+    },
+    {
+      "auction": "Copart",
+      "location": "WI - Madison",
+      "port": "IL",
+      "price": 1888
+    },
+    {
+      "auction": "Copart",
+      "location": "WI - Madison SOUTH",
+      "port": "IL",
+      "price": 1868
+    },
+    {
+      "auction": "Copart",
+      "location": "WI - Milwaukee",
+      "port": "IL",
+      "price": 1848
+    },
+    {
+      "auction": "Copart",
+      "location": "WI - Milwaukee NORTH",
+      "port": "IL",
+      "price": 1898
+    },
+    {
+      "auction": "Copart",
+      "location": "WI - Milwaukee SOUTH",
+      "port": "IL",
+      "price": 1908
+    },
+    {
+      "auction": "Copart",
+      "location": "WV - Charlestone",
+      "port": "NJ",
+      "price": 1863
+    },
+    {
+      "auction": "Copart",
+      "location": "PA - Pittsburgh South",
+      "port": "NJ",
+      "price": 1728
+    },
+    {
+      "auction": "Copart",
+      "location": "WY - Casper",
+      "port": "IL",
+      "price": 2498
+    },
+    {
+      "auction": "Copart",
+      "location": "NH - Candia",
+      "port": "NJ",
+      "price": 1728
+    },
+    {
+      "auction": "Copart",
+      "location": "NJ - Glassboro West",
+      "port": "NJ",
+      "price": 1488
+    },
+    {
+      "auction": "Copart",
+      "location": "DC-Washington MD",
+      "port": "NJ",
+      "price": 1598
+    },
+    {
+      "auction": "Copart",
+      "location": "OH - Dayton",
+      "port": "NJ",
+      "price": 1798
+    },
+    {
+      "auction": "Copart",
+      "location": "RI - Exeter",
+      "port": "NJ",
+      "price": 1683
+    },
+    {
+      "auction": "Copart",
+      "location": "OK - Oklahoma City",
+      "port": "TX",
+      "price": 1808
+    },
+    {
+      "auction": "Copart",
+      "location": "OH - Cleveland West",
+      "port": "NJ",
+      "price": 1833
+    },
+    {
+      "auction": "Copart",
+      "location": "OH - Columbus",
+      "port": "NJ",
+      "price": 1823
+    },
+    {
+      "auction": "Copart",
+      "location": "OH-AKRON",
+      "port": "NJ",
+      "price": 1828
+    },
+    {
+      "auction": "Copart",
+      "location": "TX - Austin",
+      "port": "TX",
+      "price": 1808
+    },
+    {
+      "auction": "Copart",
+      "location": "CA - NAPA",
+      "port": "CA",
+      "price": 2323
+    },
+    {
+      "auction": "Iaai",
+      "location": "Dream Rides",
+      "port": "IL",
+      "price": 1908
+    },
+    {
+      "auction": "Iaai",
+      "location": "Albany",
+      "port": "NJ",
+      "price": 1598
+    },
+    {
+      "auction": "Iaai",
+      "location": "Cleveland",
+      "port": "NJ",
+      "price": 1828
+    },
+    {
+      "auction": "Copart",
+      "location": "UT - Salt Lake City",
+      "port": "CA",
+      "price": 2483
+    },
+    {
+      "auction": "COPART",
+      "location": "NC-LAGRANGE",
+      "port": "GA",
+      "price": 1638
+    },
+    {
+      "auction": "Iaai",
+      "location": "Indianapolis South",
+      "port": "IL",
+      "price": 1798
+    },
+    {
+      "auction": "Iaai",
+      "location": "Stockton (CA)",
+      "port": "CA",
+      "price": 2398
+    },
+    {
+      "auction": "CANADA",
+      "location": "NS - HALIFAX",
+      "port": "CAN",
+      "price": 3188
+    },
+    {
+      "auction": "CANADA",
+      "location": "ON - COOKSTOWN",
+      "port": "CAN",
+      "price": 3743
+    },
+    {
+      "auction": "CANADA",
+      "location": "ON - OTTAWA",
+      "port": "CAN",
+      "price": 4243
+    },
+    {
+      "auction": "CANADA",
+      "location": "ON - LONDON",
+      "port": "CAN",
+      "price": 2163
+    },
+    {
+      "auction": "CANADA",
+      "location": "ON - TORONTO",
+      "port": "CAN",
+      "price": 2143
+    },
+    {
+      "auction": "CANADA",
+      "location": "NS - HALIFAX",
+      "port": "CAN",
+      "price": 3243
+    },
+    {
+      "auction": "CANADA",
+      "location": "AB - EDMONTON",
+      "port": "CAN",
+      "price": 3493
+    },
+    {
+      "auction": "CANADA",
+      "location": "AB - CALGARY",
+      "port": "CAN",
+      "price": 3323
+    },
+    {
+      "auction": "Manheim",
+      "location": "AL - 4 Star Auto Auction Powered by Manheim",
+      "port": "GA",
+      "price": 1893
+    },
+    {
+      "auction": "Manheim",
+      "location": "AL - Manheim Birmingham",
+      "port": "GA",
+      "price": 1893
+    },
+    {
+      "auction": "Manheim",
+      "location": "AR - Manheim Little Rock",
+      "port": "GA",
+      "price": 1938
+    },
+    {
+      "auction": "Manheim",
+      "location": "AZ -Manheim Phoenix",
+      "port": "CA",
+      "price": 2553
+    },
+    {
+      "auction": "Manheim",
+      "location": "AZ - Manheim Tucson",
+      "port": "CA",
+      "price": 2593
+    },
+    {
+      "auction": "Manheim",
+      "location": "CA - Manheim California",
+      "port": "CA",
+      "price": 2423
+    },
+    {
+      "auction": "Manheim",
+      "location": "CA - Manheim Fresno",
+      "port": "CA",
+      "price": 2548
+    },
+    {
+      "auction": "Manheim",
+      "location": "CA - Manheim Oceanside",
+      "port": "CA",
+      "price": 2393
+    },
+    {
+      "auction": "Manheim",
+      "location": "CA - Manheim Riverside",
+      "port": "CA",
+      "price": 2368
+    },
+    {
+      "auction": "Manheim",
+      "location": "CA - Manheim San Francisco Bay",
+      "port": "CA",
+      "price": 2578
+    },
+    {
+      "auction": "Manheim",
+      "location": "CA - Manheim Southern California",
+      "port": "CA",
+      "price": 2488
+    },
+    {
+      "auction": "Manheim",
+      "location": "CO - DAA of the Rockies",
+      "port": "TX",
+      "price": 2528
+    },
+    {
+      "auction": "Manheim",
+      "location": "CO - Manheim Denver",
+      "port": "CA",
+      "price": 2488
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - Manheim Central Florida",
+      "port": "GA",
+      "price": 1818
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - Manheim Daytona Beach",
+      "port": "GA",
+      "price": 1778
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - Manheim Fort Lauderdale",
+      "port": "GA",
+      "price": 1863
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - Manheim Fort Myers",
+      "port": "GA",
+      "price": 1873
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - Manheim Jacksonville",
+      "port": "GA",
+      "price": 1678
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - Manheim Lakeland",
+      "port": "GA",
+      "price": 1833
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - Manheim Orlando",
+      "port": "GA",
+      "price": 1758
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - Manheim Palm Beach",
+      "port": "GA",
+      "price": 1908
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - Manheim Pensacola",
+      "port": "GA",
+      "price": 1838
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - Manheim St. Pete",
+      "port": "GA",
+      "price": 1838
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - Manheim Tampa",
+      "port": "GA",
+      "price": 1798
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - SARASOTA",
+      "port": "GA",
+      "price": 1878
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - Tallahassee Auto Auction",
+      "port": "GA",
+      "price": 1863
+    },
+    {
+      "auction": "Manheim",
+      "location": "GA - Manheim Atlanta",
+      "port": "GA",
+      "price": 1818
+    },
+    {
+      "auction": "Manheim",
+      "location": "GA - Manheim Georgia",
+      "port": "GA",
+      "price": 1778
+    },
+    {
+      "auction": "Manheim",
+      "location": "GA - MyCentralAuction",
+      "port": "GA",
+      "price": 1783
+    },
+    {
+      "auction": "Manheim",
+      "location": "GA - Rome Auto Auction Powered by Manheim",
+      "port": "GA",
+      "price": 1818
+    },
+    {
+      "auction": "Manheim",
+      "location": "IL - Manheim Chicago",
+      "port": "IL",
+      "price": 1993
+    },
+    {
+      "auction": "Manheim",
+      "location": "IN - Manheim Louisville",
+      "port": "IL",
+      "price": 2138
+    },
+    {
+      "auction": "Manheim",
+      "location": "IO - Manheim Iowa",
+      "port": "IL",
+      "price": 2233
+    },
+    {
+      "auction": "Manheim",
+      "location": "KS - Olathe Mobile Auction",
+      "port": "IL",
+      "price": 2238
+    },
+    {
+      "auction": "Manheim",
+      "location": "KS - Wichita Mobile Auction",
+      "port": "IL",
+      "price": 2338
+    },
+    {
+      "auction": "Manheim",
+      "location": "LA - Manheim Lafayette",
+      "port": "GA",
+      "price": 1953
+    },
+    {
+      "auction": "Manheim",
+      "location": "LA - Manheim New Orleans",
+      "port": "GA",
+      "price": 1993
+    },
+    {
+      "auction": "Manheim",
+      "location": "MA - Manheim New England",
+      "port": "NY",
+      "price": 2018
+    },
+    {
+      "auction": "Manheim",
+      "location": "Manheim Caribbean Subasta De Autos",
+      "port": "-",
+      "price": 6043
+    },
+    {
+      "auction": "Manheim",
+      "location": "Manheim Hawaii",
+      "port": "-",
+      "price": 5393
+    },
+    {
+      "auction": "Manheim",
+      "location": "Maryland Manheim Baltimore-Washington",
+      "port": "NY",
+      "price": 1998
+    },
+    {
+      "auction": "Manheim",
+      "location": "MI - Manheim Detroit",
+      "port": "IL",
+      "price": 2138
+    },
+    {
+      "auction": "Manheim",
+      "location": "MI - Manheim Flint",
+      "port": "IL",
+      "price": 2138
+    },
+    {
+      "auction": "Manheim",
+      "location": "MN - Manheim Minneapolis",
+      "port": "IL",
+      "price": 2198
+    },
+    {
+      "auction": "Manheim",
+      "location": "MN - Manheim Northstar Minnesota",
+      "port": "IL",
+      "price": 2218
+    },
+    {
+      "auction": "Manheim",
+      "location": "MO - Manheim Kansas City",
+      "port": "IL",
+      "price": 2063
+    },
+    {
+      "auction": "Manheim",
+      "location": "MO - Manheim St. Louis",
+      "port": "IL",
+      "price": 2138
+    },
+    {
+      "auction": "Manheim",
+      "location": "MO - St. Louis Mobile Auction",
+      "port": "IL",
+      "price": 2138
+    },
+    {
+      "auction": "Manheim",
+      "location": "MS - Manheim Mississippi",
+      "port": "GA",
+      "price": 1938
+    },
+    {
+      "auction": "Manheim",
+      "location": "NC - King Mobile Auction",
+      "port": "GA",
+      "price": 1853
+    },
+    {
+      "auction": "Manheim",
+      "location": "NC - Manheim Charlotte",
+      "port": "GA",
+      "price": 1818
+    },
+    {
+      "auction": "Manheim",
+      "location": "NC - Manheim North Carolina",
+      "port": "GA",
+      "price": 1853
+    },
+    {
+      "auction": "Manheim",
+      "location": "NC - Manheim Statesville",
+      "port": "GA",
+      "price": 1818
+    },
+    {
+      "auction": "Manheim",
+      "location": "NC - Manheim Wilmington",
+      "port": "GA",
+      "price": 1828
+    },
+    {
+      "auction": "Manheim",
+      "location": "NC - Raleigh",
+      "port": "GA",
+      "price": 2173
+    },
+    {
+      "auction": "Manheim",
+      "location": "NE - Manheim Omaha",
+      "port": "IL",
+      "price": 2238
+    },
+    {
+      "auction": "Manheim",
+      "location": "NJ - Manheim New Jersey",
+      "port": "NY",
+      "price": 1738
+    },
+    {
+      "auction": "Manheim",
+      "location": "NJ - Manheim NY Metro Skyline",
+      "port": "NY",
+      "price": 1963
+    },
+    {
+      "auction": "Manheim",
+      "location": "NM - Manheim New Mexico",
+      "port": "TX",
+      "price": 1883
+    },
+    {
+      "auction": "Manheim",
+      "location": "NV - Las Vegas Mobile Auction",
+      "port": "CA",
+      "price": 2538
+    },
+    {
+      "auction": "Manheim",
+      "location": "NV - Manheim Nevada",
+      "port": "CA",
+      "price": 2538
+    },
+    {
+      "auction": "Manheim",
+      "location": "NY - Manheim Albany",
+      "port": "NY",
+      "price": 2038
+    },
+    {
+      "auction": "Manheim",
+      "location": "NY - Manheim New York",
+      "port": "NY",
+      "price": 1953
+    },
+    {
+      "auction": "Manheim",
+      "location": "NY - Manheim Rochester",
+      "port": "NY",
+      "price": 1938
+    },
+    {
+      "auction": "Manheim",
+      "location": "OH - Manheim Cincinnati",
+      "port": "NY",
+      "price": 2253
+    },
+    {
+      "auction": "Manheim",
+      "location": "OH - Manheim Cleveland",
+      "port": "NY",
+      "price": 2238
+    },
+    {
+      "auction": "Manheim",
+      "location": "OH - Manheim Ohio",
+      "port": "NY",
+      "price": 2183
+    },
+    {
+      "auction": "Manheim",
+      "location": "OK - Manheim Tulsa",
+      "port": "TX",
+      "price": 2238
+    },
+    {
+      "auction": "Manheim",
+      "location": "OR - Manheim Portland",
+      "port": "CA",
+      "price": 2993
+    },
+    {
+      "auction": "Manheim",
+      "location": "OR - Medford Mobile Auction",
+      "port": "CA",
+      "price": 2943
+    },
+    {
+      "auction": "Manheim",
+      "location": "PA - Manheim Keystone Pennsylvania",
+      "port": "NY",
+      "price": 2023
+    },
+    {
+      "auction": "Manheim",
+      "location": "PA - Manheim Pennsylvania",
+      "port": "NY",
+      "price": 1898
+    },
+    {
+      "auction": "Manheim",
+      "location": "PA - Manheim Philadelphia",
+      "port": "NY",
+      "price": 1898
+    },
+    {
+      "auction": "Manheim",
+      "location": "PA - Manheim Pittsburgh",
+      "port": "NY",
+      "price": 2233
+    },
+    {
+      "auction": "Manheim",
+      "location": "PA - Reading Mobile Auction",
+      "port": "NY",
+      "price": 2238
+    },
+    {
+      "auction": "Manheim",
+      "location": "SC - Lugoff Mobile Auction",
+      "port": "GA",
+      "price": 1768
+    },
+    {
+      "auction": "Manheim",
+      "location": "SC - Manheim Darlington",
+      "port": "GA",
+      "price": 1793
+    },
+    {
+      "auction": "Manheim",
+      "location": "SC - Manheim Greer Service Center",
+      "port": "GA",
+      "price": 1793
+    },
+    {
+      "auction": "Manheim",
+      "location": "TN - Manheim Nashville",
+      "port": "GA",
+      "price": 1963
+    },
+    {
+      "auction": "Manheim",
+      "location": "TX - Arlington Mobile Auction",
+      "port": "TX",
+      "price": 2088
+    },
+    {
+      "auction": "Manheim",
+      "location": "TX - Decatur Mobile Auction",
+      "port": "TX",
+      "price": 2088
+    },
+    {
+      "auction": "Manheim",
+      "location": "TX - Hudson Oaks Mobile Auction",
+      "port": "TX",
+      "price": 2103
+    },
+    {
+      "auction": "Manheim",
+      "location": "TX - Manheim Dallas",
+      "port": "TX",
+      "price": 2038
+    },
+    {
+      "auction": "Manheim",
+      "location": "TX - Manheim Dallas-Fort Worth",
+      "port": "TX",
+      "price": 2108
+    },
+    {
+      "auction": "Manheim",
+      "location": "TX - Manheim El Paso",
+      "port": "TX",
+      "price": 2243
+    },
+    {
+      "auction": "Manheim",
+      "location": "TX - Manheim Houston",
+      "port": "TX",
+      "price": 1933
+    },
+    {
+      "auction": "Manheim",
+      "location": "TX - Manheim San Antonio",
+      "port": "TX",
+      "price": 2113
+    },
+    {
+      "auction": "Manheim",
+      "location": "TX - Manheim Texas Hobby",
+      "port": "TX",
+      "price": 1998
+    },
+    {
+      "auction": "Manheim",
+      "location": "TX - Park Place Auto Auction Powered by Manheim",
+      "port": "TX",
+      "price": 2063
+    },
+    {
+      "auction": "Manheim",
+      "location": "UT - Manheim Utah",
+      "port": "CA",
+      "price": 2743
+    },
+    {
+      "auction": "Manheim",
+      "location": "VA - Manheim Harrisonburg",
+      "port": "NY",
+      "price": 2128
+    },
+    {
+      "auction": "Manheim",
+      "location": "VA - Roanoke Mobile Auction",
+      "port": "NY",
+      "price": 2123
+    },
+    {
+      "auction": "Manheim",
+      "location": "VA-WOODBRIDGE",
+      "port": "NJ",
+      "price": 2123
+    },
+    {
+      "auction": "Manheim",
+      "location": "WA - Burlington Mobile Auction",
+      "port": "CA",
+      "price": 2793
+    },
+    {
+      "auction": "Manheim",
+      "location": "WA - Manheim Seattle",
+      "port": "CA",
+      "price": 2843
+    },
+    {
+      "auction": "Manheim",
+      "location": "WI - Manheim Milwaukee",
+      "port": "IL",
+      "price": 2108
+    },
+    {
+      "auction": "Copart",
+      "location": "OH - Cleveland East",
+      "port": "NJ",
+      "price": 1818
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - CLEWISTON",
+      "port": "GA",
+      "price": 1708
+    },
+    {
+      "auction": "Manheim",
+      "location": "OK - Ardmore",
+      "port": "TX",
+      "price": 2188
+    },
+    {
+      "auction": "Manheim",
+      "location": "LA - Baton Rouge",
+      "port": "TX",
+      "price": 1993
+    },
+    {
+      "auction": "Copart",
+      "location": "CEDAR RAPIDS",
+      "port": "IL",
+      "price": 2043
+    },
+    {
+      "auction": "Manheim",
+      "location": "FL - Haines City",
+      "port": "GA",
+      "price": 1908
+    },
+    {
+      "auction": "Manheim",
+      "location": "MD - Woodlawn",
+      "port": "NJ",
+      "price": 1923
+    },
+    {
+      "auction": "Manheim",
+      "location": "VA - Manheim Fredericksburg",
+      "port": "NY",
+      "price": 2038
+    },
+    {
+      "auction": "Iaai",
+      "location": "Abilene",
+      "port": "TX",
+      "price": 1818
+    },
+    {
+      "auction": "Copart",
+      "location": "FL - Miami Central",
+      "port": "GA",
+      "price": 1428
+    },
+    {
+      "auction": "COPART",
+      "location": "AL-CUSSETA",
+      "port": "GA",
+      "price": 1728
+    },
+    {
+      "auction": "Manheim",
+      "location": "IN - Manheim Indianapolis",
+      "port": "IL",
+      "price": 2118
+    },
+    {
+      "auction": "Pipeline",
+      "location": "AK",
+      "port": "GR",
+      "price": 573
+    },
+    {
+      "auction": "Copart",
+      "location": "PA - Pittsburgh West",
+      "port": "NJ",
+      "price": 1718
+    },
+    {
+      "auction": "Copart",
+      "location": "WA - SPANAWAY",
+      "port": "CA",
+      "price": 2748
+    },
+    {
+      "auction": "Iaai",
+      "location": "ACE   Carson",
+      "port": "CA",
+      "price": 2128
+    },
+    {
+      "auction": "Iaai",
+      "location": "ACE   Perris",
+      "port": "CA",
+      "price": 2168
+    },
+    {
+      "auction": "Iaai",
+      "location": "Akron Canton",
+      "port": "NJ",
+      "price": 1818
+    },
+    {
+      "auction": "Iaai",
+      "location": "Albuquerque",
+      "port": "TX",
+      "price": 1993
+    },
+    {
+      "auction": "Iaai",
+      "location": "Altoona",
+      "port": "NJ",
+      "price": 1693
+    },
+    {
+      "auction": "Iaai",
+      "location": "Amarillo",
+      "port": "TX",
+      "price": 1898
+    },
+    {
+      "auction": "Iaai",
+      "location": "Anaheim",
+      "port": "CA",
+      "price": 2158
+    },
+    {
+      "auction": "Iaai",
+      "location": "Anaheim Consolidated",
+      "port": "CA",
+      "price": 2148
+    },
+    {
+      "auction": "Iaai",
+      "location": "Anchorage",
+      "port": "CA",
+      "price": 4998
+    },
+    {
+      "auction": "Iaai",
+      "location": "Appleton",
+      "port": "IL",
+      "price": 1948
+    },
+    {
+      "auction": "Iaai",
+      "location": "Asheville",
+      "port": "GA",
+      "price": 1588
+    },
+    {
+      "auction": "Iaai",
+      "location": "Ashland",
+      "port": "GA",
+      "price": 1848
+    },
+    {
+      "auction": "Iaai",
+      "location": "Atlanta East",
+      "port": "GA",
+      "price": 1578
+    },
+    {
+      "auction": "Iaai",
+      "location": "Atlanta",
+      "port": "GA",
+      "price": 1578
+    },
+    {
+      "auction": "Iaai",
+      "location": "Avenel New Jersey",
+      "port": "NJ",
+      "price": 1548
+    },
+    {
+      "auction": "Iaai",
+      "location": "Baltimore",
+      "port": "NJ",
+      "price": 1628
+    },
+    {
+      "auction": "Iaai",
+      "location": "Baton Rouge",
+      "port": "TX",
+      "price": 1658
+    },
+    {
+      "auction": "Iaai",
+      "location": "Billings",
+      "port": "TX",
+      "price": 2758
+    },
+    {
+      "auction": "Iaai",
+      "location": "Boise",
+      "port": "IL",
+      "price": 2588
+    },
+    {
+      "auction": "Iaai",
+      "location": "Bowling Green",
+      "port": "GA",
+      "price": 1818
+    },
+    {
+      "auction": "Iaai",
+      "location": "Bridgeport",
+      "port": "NJ",
+      "price": 1573
+    },
+    {
+      "auction": "Iaai",
+      "location": "Buckhannon",
+      "port": "NJ",
+      "price": 1878
+    },
+    {
+      "auction": "Iaai",
+      "location": "Buffalo",
+      "port": "NJ",
+      "price": 1878
+    },
+    {
+      "auction": "Iaai",
+      "location": "Burlington",
+      "port": "NJ",
+      "price": 1823
+    },
+    {
+      "auction": "Iaai",
+      "location": "Casper",
+      "port": "IL",
+      "price": 2798
+    },
+    {
+      "auction": "Iaai",
+      "location": "Charlotte",
+      "port": "GA",
+      "price": 1598
+    },
+    {
+      "auction": "Iaai",
+      "location": "Chattanooga",
+      "port": "GA",
+      "price": 1673
+    },
+    {
+      "auction": "Iaai",
+      "location": "Chicago North",
+      "port": "IL",
+      "price": 1948
+    },
+    {
+      "auction": "Iaai",
+      "location": "Chicago South",
+      "port": "IL",
+      "price": 1948
+    },
+    {
+      "auction": "Iaai",
+      "location": "Chicago West",
+      "port": "IL",
+      "price": 1948
+    },
+    {
+      "auction": "Iaai",
+      "location": "Cincinnati South",
+      "port": "NJ",
+      "price": 1798
+    },
+    {
+      "auction": "Iaai",
+      "location": "Clearwater",
+      "port": "GA",
+      "price": 1598
+    },
+    {
+      "auction": "Iaai",
+      "location": "Colorado Springs",
+      "port": "TX",
+      "price": 1798
+    },
+    {
+      "auction": "Iaai",
+      "location": "Colton",
+      "port": "CA",
+      "price": 2198
+    },
+    {
+      "auction": "Iaai",
+      "location": "Columbus",
+      "port": "NJ",
+      "price": 1808
+    },
+    {
+      "auction": "Iaai",
+      "location": "Concord",
+      "port": "GA",
+      "price": 1598
+    },
+    {
+      "auction": "Iaai",
+      "location": "Culpeper",
+      "port": "NJ",
+      "price": 1728
+    },
+    {
+      "auction": "Iaai",
+      "location": "Dallas/Ft Worth",
+      "port": "TX",
+      "price": 1698
+    },
+    {
+      "auction": "Iaai",
+      "location": "Dallas",
+      "port": "TX",
+      "price": 1698
+    },
+    {
+      "auction": "Iaai",
+      "location": "Davenport",
+      "port": "IL",
+      "price": 1948
+    },
+    {
+      "auction": "Iaai",
+      "location": "Dayton",
+      "port": "NJ",
+      "price": 1828
+    },
+    {
+      "auction": "Iaai",
+      "location": "Denver East",
+      "port": "TX",
+      "price": 1998
+    },
+    {
+      "auction": "Iaai",
+      "location": "Des Moines",
+      "port": "IL",
+      "price": 1983
+    },
+    {
+      "auction": "Iaai",
+      "location": "Detroit",
+      "port": "NJ",
+      "price": 1928
+    },
+    {
+      "auction": "Iaai",
+      "location": "Dothan",
+      "port": "GA",
+      "price": 1628
+    },
+    {
+      "auction": "Iaai",
+      "location": "Dundalk",
+      "port": "NJ",
+      "price": 1638
+    },
+    {
+      "auction": "Iaai",
+      "location": "East Bay",
+      "port": "CA",
+      "price": 2348
+    },
+    {
+      "auction": "Iaai",
+      "location": "Elkton",
+      "port": "NJ",
+      "price": 1618
+    },
+    {
+      "auction": "Iaai",
+      "location": "El Paso",
+      "port": "TX",
+      "price": 1858
+    },
+    {
+      "auction": "Iaai",
+      "location": "Englishtown",
+      "port": "NJ",
+      "price": 1548
+    },
+    {
+      "auction": "Iaai",
+      "location": "Erie",
+      "port": "NJ",
+      "price": 1803
+    },
+    {
+      "auction": "Iaai",
+      "location": "Eugene",
+      "port": "CA",
+      "price": 2648
+    },
+    {
+      "auction": "Iaai",
+      "location": "Fargo",
+      "port": "IL",
+      "price": 2293
+    },
+    {
+      "auction": "Iaai",
+      "location": "Fayetteville",
+      "port": "GA",
+      "price": 1868
+    },
+    {
+      "auction": "Iaai",
+      "location": "Flint",
+      "port": "NJ",
+      "price": 1968
+    },
+    {
+      "auction": "Iaai",
+      "location": "Fontana",
+      "port": "CA",
+      "price": 2198
+    },
+    {
+      "auction": "Iaai",
+      "location": "Fort Myers",
+      "port": "GA",
+      "price": 1618
+    },
+    {
+      "auction": "Iaai",
+      "location": "Fort Pierce",
+      "port": "GA",
+      "price": 1618
+    },
+    {
+      "auction": "Iaai",
+      "location": "Fort Wayne",
+      "port": "IL",
+      "price": 1928
+    },
+    {
+      "auction": "Iaai",
+      "location": "Fort Worth North",
+      "port": "TX",
+      "price": 1698
+    },
+    {
+      "auction": "Iaai",
+      "location": "Fremont",
+      "port": "CA",
+      "price": 2328
+    },
+    {
+      "auction": "Iaai",
+      "location": "Fresno",
+      "port": "CA",
+      "price": 2328
+    },
+    {
+      "auction": "Iaai",
+      "location": "Grand Rapids",
+      "port": "NJ",
+      "price": 1988
+    },
+    {
+      "auction": "Iaai",
+      "location": "Greensboro",
+      "port": "GA",
+      "price": 1583
+    },
+    {
+      "auction": "Iaai",
+      "location": "Greenville",
+      "port": "GA",
+      "price": 1388
+    },
+    {
+      "auction": "Iaai",
+      "location": "Grenada",
+      "port": "GA",
+      "price": 1718
+    },
+    {
+      "auction": "Iaai",
+      "location": "Gulf Coast",
+      "port": "GA",
+      "price": 1628
+    },
+    {
+      "auction": "Iaai",
+      "location": "Hartford",
+      "port": "NJ",
+      "price": 1698
+    },
+    {
+      "auction": "Iaai",
+      "location": "Hartford South",
+      "port": "NJ",
+      "price": 1588
+    },
+    {
+      "auction": "Iaai",
+      "location": "High Desert",
+      "port": "CA",
+      "price": 2198
+    },
+    {
+      "auction": "Iaai",
+      "location": "High Point",
+      "port": "GA",
+      "price": 1608
+    },
+    {
+      "auction": "Iaai",
+      "location": "Honolulu",
+      "port": "CA",
+      "price": 4148
+    },
+    {
+      "auction": "Iaai",
+      "location": "Houston North",
+      "port": "TX",
+      "price": 1598
+    },
+    {
+      "auction": "Iaai",
+      "location": "Houston South",
+      "port": "TX",
+      "price": 1598
+    },
+    {
+      "auction": "Iaai",
+      "location": "Houston",
+      "port": "TX",
+      "price": 1398
+    },
+    {
+      "auction": "Iaai",
+      "location": "Huntsville",
+      "port": "GA",
+      "price": 1663
+    },
+    {
+      "auction": "Iaai",
+      "location": "Jackson",
+      "port": "GA",
+      "price": 1688
+    },
+    {
+      "auction": "Iaai",
+      "location": "Kansas City East",
+      "port": "IL",
+      "price": 1898
+    },
+    {
+      "auction": "Iaai",
+      "location": "Kansas City",
+      "port": "TX",
+      "price": 1898
+    },
+    {
+      "auction": "Iaai",
+      "location": "Knoxville",
+      "port": "GA",
+      "price": 1668
+    },
+    {
+      "auction": "Iaai",
+      "location": "Lafayette",
+      "port": "TX",
+      "price": 1698
+    },
+    {
+      "auction": "Iaai",
+      "location": "Las Vegas",
+      "port": "CA",
+      "price": 2258
+    },
+    {
+      "auction": "Iaai",
+      "location": "Lexington",
+      "port": "GA",
+      "price": 1528
+    },
+    {
+      "auction": "Iaai",
+      "location": "Lincoln",
+      "port": "IL",
+      "price": 1888
+    },
+    {
+      "auction": "Iaai",
+      "location": "Little Rock",
+      "port": "GA",
+      "price": 1778
+    },
+    {
+      "auction": "Iaai",
+      "location": "Long Island",
+      "port": "NJ",
+      "price": 1598
+    },
+    {
+      "auction": "Iaai",
+      "location": "Longview",
+      "port": "TX",
+      "price": 1703
+    },
+    {
+      "auction": "Iaai",
+      "location": "Los Angeles",
+      "port": "CA",
+      "price": 2138
+    },
+    {
+      "auction": "Iaai",
+      "location": "Los Angeles South",
+      "port": "CA",
+      "price": 2138
+    },
+    {
+      "auction": "Iaai",
+      "location": "Louisville North",
+      "port": "GA",
+      "price": 1808
+    },
+    {
+      "auction": "Iaai",
+      "location": "Lubbock",
+      "port": "TX",
+      "price": 1828
+    },
+    {
+      "auction": "Iaai",
+      "location": "Macon",
+      "port": "GA",
+      "price": 1538
+    },
+    {
+      "auction": "Iaai",
+      "location": "Manchester",
+      "port": "NJ",
+      "price": 1728
+    },
+    {
+      "auction": "Iaai",
+      "location": "McAllen",
+      "port": "TX",
+      "price": 1748
+    },
+    {
+      "auction": "Iaai",
+      "location": "Memphis",
+      "port": "GA",
+      "price": 1748
+    },
+    {
+      "auction": "Iaai",
+      "location": "Metro DC",
+      "port": "NJ",
+      "price": 1628
+    },
+    {
+      "auction": "Iaai",
+      "location": "Miami North",
+      "port": "GA",
+      "price": 1628
+    },
+    {
+      "auction": "Iaai",
+      "location": "Milwaukee",
+      "port": "IL",
+      "price": 1978
+    },
+    {
+      "auction": "Iaai",
+      "location": "Minneapolis South",
+      "port": "IL",
+      "price": 1978
+    },
+    {
+      "auction": "Iaai",
+      "location": "Minneapolis/St. Paul",
+      "port": "IL",
+      "price": 1968
+    },
+    {
+      "auction": "Iaai",
+      "location": "Missoula",
+      "port": "CA",
+      "price": 3048
+    },
+    {
+      "auction": "Iaai",
+      "location": "Nashville",
+      "port": "GA",
+      "price": 1748
+    },
+    {
+      "auction": "Iaai",
+      "location": "Newburgh",
+      "port": "NJ",
+      "price": 1558
+    },
+    {
+      "auction": "Iaai",
+      "location": "New Castle",
+      "port": "NJ",
+      "price": 1628
+    },
+    {
+      "auction": "Iaai",
+      "location": "New Orleans East",
+      "port": "TX",
+      "price": 1848
+    },
+    {
+      "auction": "Iaai",
+      "location": "New Orleans",
+      "port": "TX",
+      "price": 1848
+    },
+    {
+      "auction": "Iaai",
+      "location": "Northern Virginia",
+      "port": "NJ",
+      "price": 1658
+    },
+    {
+      "auction": "Iaai",
+      "location": "North Hollywood",
+      "port": "CA",
+      "price": 2198
+    },
+    {
+      "auction": "Iaai",
+      "location": "Oklahoma City",
+      "port": "TX",
+      "price": 1808
+    },
+    {
+      "auction": "Iaai",
+      "location": "Austin-north",
+      "port": "TX",
+      "price": 1823
+    },
+    {
+      "auction": "Iaai",
+      "location": "Birmingham",
+      "port": "GA",
+      "price": 1493
+    },
+    {
+      "auction": "Iaai",
+      "location": "Cincinnati",
+      "port": "NJ",
+      "price": 1828
+    },
+    {
+      "auction": "Iaai",
+      "location": "Atlanta North",
+      "port": "GA",
+      "price": 1618
+    },
+    {
+      "auction": "Iaai",
+      "location": "Atlanta South",
+      "port": "GA",
+      "price": 1618
+    },
+    {
+      "auction": "Iaai",
+      "location": "Central New Jersey",
+      "port": "NJ",
+      "price": 1228
+    },
+    {
+      "auction": "Iaai",
+      "location": "Charleston",
+      "port": "GA",
+      "price": 1598
+    },
+    {
+      "auction": "Iaai",
+      "location": "Jacksonville",
+      "port": "GA",
+      "price": 1483
+    },
+    {
+      "auction": "Iaai",
+      "location": "Indianapolis",
+      "port": "IL",
+      "price": 1798
+    },
+    {
+      "auction": "Iaai",
+      "location": "Boston  Shirley",
+      "port": "NJ",
+      "price": 1703
+    },
+    {
+      "auction": "Iaai",
+      "location": "Omaha",
+      "port": "IL",
+      "price": 2038
+    },
+    {
+      "auction": "Iaai",
+      "location": "Orlando",
+      "port": "GA",
+      "price": 1558
+    },
+    {
+      "auction": "Iaai",
+      "location": "Orlando North",
+      "port": "GA",
+      "price": 1558
+    },
+    {
+      "auction": "Iaai",
+      "location": "Paducah",
+      "port": "GA",
+      "price": 1838
+    },
+    {
+      "auction": "Iaai",
+      "location": "Pensacola",
+      "port": "GA",
+      "price": 1628
+    },
+    {
+      "auction": "Iaai",
+      "location": "Permian Basin",
+      "port": "TX",
+      "price": 1848
+    },
+    {
+      "auction": "Iaai",
+      "location": "Philadelphia",
+      "port": "NJ",
+      "price": 1568
+    },
+    {
+      "auction": "Iaai",
+      "location": "Phoenix",
+      "port": "CA",
+      "price": 2278
+    },
+    {
+      "auction": "Iaai",
+      "location": "Pittsburgh North",
+      "port": "NJ",
+      "price": 1768
+    },
+    {
+      "auction": "Iaai",
+      "location": "Pittsburgh",
+      "port": "NJ",
+      "price": 1768
+    },
+    {
+      "auction": "Iaai",
+      "location": "Portage",
+      "port": "IL",
+      "price": 1908
+    },
+    {
+      "auction": "Iaai",
+      "location": "Portland   Gorham",
+      "port": "NJ",
+      "price": 1758
+    },
+    {
+      "auction": "Iaai",
+      "location": "Portland",
+      "port": "CA",
+      "price": 2648
+    },
+    {
+      "auction": "Iaai",
+      "location": "Portland South",
+      "port": "CA",
+      "price": 2648
+    },
+    {
+      "auction": "Iaai",
+      "location": "Portland West",
+      "port": "CA",
+      "price": 2648
+    },
+    {
+      "auction": "Iaai",
+      "location": "Port Murray",
+      "port": "NJ",
+      "price": 1543
+    },
+    {
+      "auction": "Iaai",
+      "location": "Providence",
+      "port": "NJ",
+      "price": 1688
+    },
+    {
+      "auction": "Iaai",
+      "location": "Pulaski",
+      "port": "NJ",
+      "price": 1708
+    },
+    {
+      "auction": "Iaai",
+      "location": "Raleigh",
+      "port": "GA",
+      "price": 1558
+    },
+    {
+      "auction": "Iaai",
+      "location": "Reno",
+      "port": "CA",
+      "price": 2428
+    },
+    {
+      "auction": "Iaai",
+      "location": "Richmond",
+      "port": "NJ",
+      "price": 1708
+    },
+    {
+      "auction": "Iaai",
+      "location": "Roanoke",
+      "port": "NJ",
+      "price": 1748
+    },
+    {
+      "auction": "Iaai",
+      "location": "Rochester",
+      "port": "NJ",
+      "price": 1748
+    },
+    {
+      "auction": "Iaai",
+      "location": "Sacramento",
+      "port": "CA",
+      "price": 2353
+    },
+    {
+      "auction": "Iaai",
+      "location": "San Antonio South",
+      "port": "TX",
+      "price": 1698
+    },
+    {
+      "auction": "Iaai",
+      "location": "San Diego",
+      "port": "CA",
+      "price": 2228
+    },
+    {
+      "auction": "Iaai",
+      "location": "Santa Clarita",
+      "port": "CA",
+      "price": 2198
+    },
+    {
+      "auction": "Iaai",
+      "location": "Sayreville",
+      "port": "NJ",
+      "price": 1508
+    },
+    {
+      "auction": "Iaai",
+      "location": "Scranton",
+      "port": "NJ",
+      "price": 1618
+    },
+    {
+      "auction": "Iaai",
+      "location": "Seattle",
+      "port": "CA",
+      "price": 2698
+    },
+    {
+      "auction": "Iaai",
+      "location": "Shady Spring",
+      "port": "NJ",
+      "price": 1863
+    },
+    {
+      "auction": "Iaai",
+      "location": "Shreveport",
+      "port": "TX",
+      "price": 1718
+    },
+    {
+      "auction": "Iaai",
+      "location": "Sioux Falls",
+      "port": "IL",
+      "price": 2148
+    },
+    {
+      "auction": "Iaai",
+      "location": "South Bend",
+      "port": "IL",
+      "price": 1898
+    },
+    {
+      "auction": "Iaai",
+      "location": "Southern New Jersey",
+      "port": "NJ",
+      "price": 1528
+    },
+    {
+      "auction": "Iaai",
+      "location": "Spokane",
+      "port": "CA",
+      "price": 2648
+    },
+    {
+      "auction": "Iaai",
+      "location": "Springfield",
+      "port": "IL",
+      "price": 1898
+    },
+    {
+      "auction": "Iaai",
+      "location": "St. Louis",
+      "port": "IL",
+      "price": 1898
+    },
+    {
+      "auction": "Iaai",
+      "location": "Suffolk",
+      "port": "NJ",
+      "price": 1728
+    },
+    {
+      "auction": "Iaai",
+      "location": "Syracuse",
+      "port": "NJ",
+      "price": 1728
+    },
+    {
+      "auction": "Iaai",
+      "location": "Tampa",
+      "port": "GA",
+      "price": 1568
+    },
+    {
+      "auction": "Iaai",
+      "location": "Tampa North",
+      "port": "GA",
+      "price": 1573
+    },
+    {
+      "auction": "Iaai",
+      "location": "Taunton",
+      "port": "NJ",
+      "price": 1628
+    },
+    {
+      "auction": "Iaai",
+      "location": "Templeton",
+      "port": "NJ",
+      "price": 1648
+    },
+    {
+      "auction": "Iaai",
+      "location": "Tidewater",
+      "port": "NJ",
+      "price": 1718
+    },
+    {
+      "auction": "Iaai",
+      "location": "Tifton",
+      "port": "GA",
+      "price": 1548
+    },
+    {
+      "auction": "Iaai",
+      "location": "Tucson",
+      "port": "CA",
+      "price": 2298
+    },
+    {
+      "auction": "Iaai",
+      "location": "Tulsa",
+      "port": "TX",
+      "price": 1813
+    },
+    {
+      "auction": "Iaai",
+      "location": "Western Colorado",
+      "port": "TX",
+      "price": 2098
+    },
+    {
+      "auction": "Iaai",
+      "location": "West Palm Beach",
+      "port": "GA",
+      "price": 1548
+    },
+    {
+      "auction": "Iaai",
+      "location": "Wichita",
+      "port": "TX",
+      "price": 1948
+    },
+    {
+      "auction": "Iaai",
+      "location": "Wilmington",
+      "port": "GA",
+      "price": 1598
+    },
+    {
+      "auction": "Iaai",
+      "location": "York Springs",
+      "port": "NJ",
+      "price": 1598
+    },
+    {
+      "auction": "Iaai",
+      "location": "St. Cloud",
+      "port": "IL",
+      "price": 2013
+    },
+    {
+      "auction": "Iaai",
+      "location": "Provo",
+      "port": "CA",
+      "price": 2463
+    },
+    {
+      "auction": "Iaai",
+      "location": "Monticello",
+      "port": "NJ",
+      "price": 1728
+    },
+    {
+      "auction": "Iaai",
+      "location": "Lake City",
+      "port": "GA",
+      "price": 1618
+    },
+    {
+      "auction": "Iaai",
+      "location": "Corpus Christi",
+      "port": "TX",
+      "price": 1678
+    },
+    {
+      "auction": "Iaai",
+      "location": "Savannah",
+      "port": "GA",
+      "price": 1218
+    },
+    {
+      "auction": "Iaai",
+      "location": "Salt Lake City",
+      "port": "CA",
+      "price": 2493
+    }
+  ]
+}

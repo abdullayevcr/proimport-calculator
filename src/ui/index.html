@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="az">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'self'; img-src 'self' https: data:; style-src 'self' 'unsafe-inline'; script-src 'self'">
+<title>Proİmport</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><img class="logo" src="logo-proimport.png" alt="Proİmport loqosu"><div><b>Proİmport</b><small>Avtomobilin Bakıya qədər tam dəyəri</small></div></div>
+  <nav>
+    <button class="tab active" data-tab="calc">Hesablama</button>
+    <button class="tab" data-tab="history">Tarixçə</button>
+    <button class="tab" data-tab="settings">Ayarlar</button>
+  </nav>
+  <div class="conn" id="conn"></div>
+</header>
+
+<main>
+<!-- ============ HESABLAMA ============ -->
+<section id="tab-calc" class="page">
+  <div class="col form">
+    <div class="card">
+      <h2>1. Avtomobil</h2>
+      <div class="row"><label>Marka<select id="make"><option value="">Marka seçin</option></select></label>
+      <label>Model<select id="model" disabled><option value="">Əvvəl marka seçin</option></select></label></div>
+      <div class="row">
+        <label>Nəqliyyat vasitəsinin növü<select id="autoType"></select></label>
+        <label>Mühərrikin növü<select id="engineType"></select></label>
+      </div>
+      <div class="row">
+        <label>Mühərrikin həcmi (L)<input id="engine" type="number" min="0.1" max="20" step="0.1" placeholder="2.0"></label>
+        <label>İstehsal tarixi<input id="issueDate" type="date" min="1980-01-01"></label>
+      </div>
+      <div class="row">
+        <label>Yürüş, mil (min)<input id="odoFrom" type="number" min="0" step="1000" placeholder="istəyə görə"></label>
+        <label>Yürüş, mil (maks)<input id="odoTo" type="number" min="0" step="1000" placeholder="istəyə görə"></label>
+      </div>
+      <div class="row">
+        <label>Şəhər / meydança<div class="yard-picker"><input id="shipLocationSearch" type="search" placeholder="Şəhər və ya meydança axtarın..." autocomplete="off" aria-label="Şəhər və ya meydança axtarışı"><select id="shipLocation" hidden><option value="">Şəhər / meydança seçin</option></select><div id="shipLocationOptions" class="yard-options" role="listbox" hidden></div></div></label>
+        <label>Auksion<select id="shipAuction"></select></label>
+      </div>
+      <details class="more">
+        <summary>Əlavə bid.cars filtrləri</summary>
+        <div class="row">
+          <label>İl (min)<input id="yearFrom" type="number" min="1990" max="2100"></label>
+          <label>İl (maks)<input id="yearTo" type="number" min="1990" max="2100"></label>
+        </div>
+        <div class="row">
+          <label>Start code<select id="startCode">
+            <option value="Run+and+Drive" selected>Run and Drive (məcburi filtr)</option></select></label>
+          <label>Ötürücü<select id="driveType">
+            <option value="All">Hamısı</option><option value="FWD">FWD</option><option value="AWD">AWD</option><option value="RWD">RWD</option></select></label>
+        </div>
+        <div class="row">
+        <label>Satışlar hansı auksiondan<select id="auctionType"><option value="All">Hamısı</option><option value="Copart">Copart</option><option value="IAAI">IAAI</option></select></label>
+          <label>Qiymət təhlili üçün lot sayı<span class="hint">Son 50 arxiv satışı</span></label>
+        </div>
+      </details>
+    </div>
+
+    <div class="card">
+      <h2>2. Qiymət (invoys)</h2>
+      <div class="market-line" id="marketLine">Marka/model, mühərrik və istehsal tarixini yazın — son 50 lotun ümumi ortasından baha olanların ortası hesablanacaq.</div>
+      <div class="row">
+        <label>Uduş pulu (USD) <span class="hint" id="priceHint"></span><input id="carPrice" type="number" min="0" step="50" placeholder="4000"></label>
+        <label>Hərrac faizi (USD) <a class="hint link" id="feeHint" title="Faizi Ayarlarda dəyişin"></a><input id="auctionFee" type="number" min="0" step="10"></label>
+      </div>
+      <div class="invoice-line">İnvoys dəyəri: <b id="invoiceView">—</b></div>
+      <div class="row-btns">
+        <button class="btn ghost small" id="btnMarket">bid.cars-da yenidən axtar</button>
+        <button class="btn ghost small" id="btnUseMarket" hidden>Bazar qiymətini qaytar</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>3. Daşınma</h2>
+      <div class="row">
+        <label>Liman<select id="shipPort"></select></label>
+        <label>Gürcüstana qədər (USD)<input id="shipping" type="number" min="0" step="5" placeholder="1210"></label>
+      </div>
+      <div class="row">
+        <label>Gürcüstan → Bakı (USD)<input id="shipGeo" type="number" min="0" step="10"></label>
+      </div>
+      <div class="ship-src" id="shipSrc"></div>
+    </div>
+
+    <button class="btn primary wide big" id="btnCalc">Hesabla</button>
+  </div>
+
+  <div class="col out">
+    <div class="card result" id="resultCard">
+      <div class="result-head">
+        <div><small>Müştəriyə deyiləcək yekun qiymət</small><div class="final" id="finalAzn">$ —</div><div class="final-usd" id="finalUsd"></div></div>
+        <div class="actions"><button class="btn ghost" id="btnCopy" disabled>Mətni kopyala</button><button class="btn ghost result-close" id="btnOpenLotPicker" type="button" title="Nəticəni bağla və lot seç" aria-label="Nəticəni bağla və lot seç" hidden>×</button><span class="hint" id="historySaveStatus" role="status"></span></div>
+      </div>
+      <table class="breakdown" id="breakdown"><tbody><tr><td class="muted">Məlumatları daxil edib "Hesabla" düyməsini basın.</td></tr></tbody></table>
+      <details class="more" id="dutyBox" hidden><summary>Gömrük ödənişlərinin tərkibi (DGK)</summary><table class="duties" id="duties"></table></details>
+    </div>
+
+    <div class="card market" id="marketCard" hidden>
+      <div class="lot-picker-head" id="lotPickerHead" hidden><b>Lot seçimi</b><button class="btn ghost small" id="btnCloseLotPicker" type="button">Nəticəyə qayıt</button></div>
+      <div class="market-tools" id="marketTools">
+      <div class="market-head">
+        <h2>Köhnə satışlar — bid.cars arxivi</h2>
+        <button class="btn ghost small" id="btnOpenSearch">bid.cars-da aç</button>
+      </div>
+      <div class="banner" id="bidBanner" hidden><span id="bidBannerText"></span><button class="btn primary small" id="btnBidLogin2">bid.cars-a daxil ol</button></div>
+      <div class="stats" id="stats"></div>
+      <div class="use-row">
+        <span>İnvoysa yaz:</span>
+        <button class="btn small" data-use="recommendedPrice">Ortalamadan baha lotların ortası</button>
+      </div>
+      </div>
+      <div class="lots-wrap"><table class="lots" id="lots"></table></div>
+      <p class="hint" id="lotsHint"></p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TARİXÇƏ ============ -->
+<section id="tab-history" class="page" hidden>
+  <div class="card wide-card">
+    <div class="market-head"><h2>Hesablamalar</h2><button class="btn ghost small" id="btnClearHistory">Təmizlə</button></div>
+    <div class="history-search"><input id="historySearch" type="search" placeholder="Marka, model, il, mühərrik və ya qiymətlə axtarın..." autocomplete="off" aria-label="Tarixçədə axtarış"></div>
+    <table class="history" id="history"></table>
+  </div>
+</section>
+
+<!-- ============ AYARLAR ============ -->
+<section id="tab-settings" class="page" hidden>
+  <div class="col">
+    <div class="card">
+      <h2>Azad Logistics tarifləri</h2>
+      <p class="hint">Daşınma tarifləri proqramın daxilində saxlanılır və internetə, hesaba girişə ehtiyac olmadan işləyir.</p>
+      <div id="azadState" class="state">Tarif cədvəli yüklənir…</div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <h2>Hesablama parametrləri</h2>
+      <div class="row">
+        <label>USD → AZN məzənnəsi<input id="sRate" type="number" step="0.0001"><span class="hint">Gömrük (AZN) dollara bununla çevrilir; DGK öz məzənnəsini qaytaranda o istifadə olunur</span></label>
+        <label>Auksion xidmət haqqı (%)<input id="sAuctionFee" type="number" min="0" max="100" step="0.5"><span class="hint">İnvoys = uduş pulu + uduş pulunun bu faizi; buradan dəyişə bilərsiniz</span></label>
+      </div>
+      <div class="row">
+        <label>Gürcüstan → Bakı daşınma (USD)<input id="sGeorgia" type="number" step="10"></label>
+        <label>Ofis haqqı (USD, sabit)<input id="sOffice" type="number" value="250" disabled></label>
+      </div>
+      <h3>Sabit Bakı xərcləri</h3><p class="hint">Torpaqbasdı: 540 AZN · Nömrə: 500 AZN. DGK üçün digər xərc 20 USD şirkət tərəfindən qarşılanır.</p>
+      <button class="btn primary" id="btnSaveSettings">Yadda saxla</button>
+      <span class="saved" id="savedMsg"></span>
+    </div>
+  </div>
+  <div class="card bid-card" id="bidCard">
+    <div class="market-head">
+      <h2>bid.cars hesabı</h2>
+      <div class="row-btns" style="margin:0">
+        <button class="btn ghost small" id="btnBidLoginPage">Giriş səhifəsi</button>
+        <button class="btn ghost small" id="btnBidReload">Yenilə</button>
+        <button class="btn ghost small" id="btnBidCheck">Vəziyyəti yoxla</button>
+      </div>
+    </div>
+    <p class="hint">BidCars-a bu brauzerdən daxil olun. Sessiya kukiləri yalnız bu brauzerdə saxlanır; server onları saxlamır və yalnız həmin sorğunun icrası üçün istifadə edir.</p>
+    <div id="bidState" class="state">Yoxlanılır…</div>
+    <div id="bidWebHint" class="hint" hidden>BidCars giriş səhifəsini yeni vərəqdə açın. Daxil olduqdan sonra burada “Vəziyyəti yoxla” düyməsinə basın.</div>
+    <webview id="bidView" partition="persist:bidcars" src="about:blank"></webview>
+  </div>
+</section>
+</main>
+
+<div class="toast" id="toast" hidden></div>
+ <script src="../data/bidcars-catalog.js"></script>
+<script src="market-pricing.js"></script>
+ <script src="web-api.js?v=20261110-6"></script>
+ <script src="app.js?v=20261110-6"></script>
+</body>
+</html>
