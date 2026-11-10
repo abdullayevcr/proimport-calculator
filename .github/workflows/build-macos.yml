@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build:
@@ -33,3 +33,15 @@ jobs:
           path: installer-output-macos/*.dmg
           if-no-files-found: error
           retention-days: 7
+      - name: Publish DMG as a public GitHub Release
+        if: success()
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: macos-build-${{ github.run_number }}
+          name: Proİmport macOS build ${{ github.run_number }}
+          body: |
+            Universal DMG for macOS 13 and newer (Intel and Apple silicon).
+
+            This build is unsigned and not notarized. macOS may show a Gatekeeper warning on first launch.
+          prerelease: true
+          files: installer-output-macos/*.dmg
