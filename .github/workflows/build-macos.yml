@@ -18,8 +18,16 @@ jobs:
           node-version: 22
       - run: npm ci --no-audit --no-fund
       - name: Test and build the universal DMG (unsigned)
-        run: npm run build:mac
+        run: npm run build:mac 2>&1 | tee mac-build.log
+      - name: Upload build log for diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: proimport-macos-build-log
+          path: mac-build.log
+          if-no-files-found: warn
       - uses: actions/upload-artifact@v4
+        if: success()
         with:
           name: proimport-macos-unsigned-test-dmg
           path: installer-output-macos/*.dmg
